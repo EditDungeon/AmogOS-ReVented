@@ -1,8 +1,12 @@
-# AmogOS
-A parody OS inspired by Among Us ඞ. (pronounced A-mog-O-S)
+# AmogOS ReVented
+A fork of a parody OS inspired by Among Us ඞ. (pronounced A-mog-O-S)
 
+ReVented aims to continue the AmogOS project that has not been updated for a long time. It now includes Proton GE (instead of Wine), Lutris, LutrisView (BigPicture mode for Lutris), as well as several other new packages. ReVented will include updated realeases for both x64 and Raspberry Pi 4/5.
+
+All downloads are found in the releases tab.
 <img src="https://i.postimg.cc/vmF8tTVH/120727498-ecfc5e00-c497-11eb-9f92-a1b99318fee1.png"/> <img src="https://i.postimg.cc/m2Ym9qXt/130533968-d797e83d-e643-4c62-9264-7d46c2b67b48.png"/>
-
+## Original AmogOS description:
+#
 ## General Info
 
 This was mostly inspired by [this reddit post](https://www.reddit.com/r/linuxmint/comments/n9h7b4/amogos_custom_background_mint_x_grey_theme/). AmogOS is a meme OS based on the hit game Among Us, in the same vein as Hannah Montana Linux, but it's also developed and made to be a lightweight operating system. AmogOS is also less bloated than some other distros (*cough cough* Ubuntu). `Chad AmogOS vs bloated mainstream distro`, as youtuber TechHut put it. Don't take this too seriously :p
