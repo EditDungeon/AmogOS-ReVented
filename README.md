@@ -1,5 +1,5 @@
 # AmogOS ReVented
-A fork of a parody OS inspired by Among Us ඞ. (pronounced A-mog-O-S)
+A remake of a parody OS inspired by Among Us ඞ. (pronounced A-mog-O-S)
 
 ReVented aims to continue the AmogOS project that has not been updated for a long time. It now includes Proton GE (instead of Wine), Lutris, LutrisView (BigPicture mode for Lutris), as well as several other new packages. ReVented will include updated realeases for both x64 and Raspberry Pi 4/5.
 
